@@ -1,10 +1,10 @@
 ### Hey there! 👋 I'm Alan.
 
-I work in software development for **immersive media** and **postproduction** workflows. I only code these days, but I used to do character rigging for film & TV VFX.
+I work in software development for **immersive media** and **postproduction** workflows. I only code these days, but I used to do _character rigging_ for [film & TV](https://www.imdb.com/name/nm4729415/) visual effects.
 
 In my industry I'm called a _Pipeline Developer_.
 
-- 👨‍💻 Fav coding languages: Python, Go and I'm beginning to like Rust.
+- 👨‍💻 Fav coding languages: Python, JavaScript, Go and I'm beginning to like Rust.
 - 📫 How to reach me: [@alanwritescode on Twitter](https://twitter.com/alanwritescode) 🐤
 - ⚡ Fun fact: I speak 4 languages! English, Spanish, French and Portuguese.
 - 🔭 Recent projects:
